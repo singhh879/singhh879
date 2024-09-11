@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Paine
-- 👀 I’m interested in paine
-- 🌱 I’m currently learning paine
-- 💞️ I’m looking to collaborate with paine
-- 📫 reach me through paine
+- 👋 Hi, I’m Harshit
+- 👀 I’m interested in you
+- 🌱 I’m currently learning seduction
+- 💞️ I’m looking to collaborate with Robert Greene
+- 📫 reach me through 
 
 <!---
 singhh879/singhh879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
